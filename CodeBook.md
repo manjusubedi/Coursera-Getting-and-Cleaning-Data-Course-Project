@@ -47,9 +47,13 @@ Measurement: Three dimensional (XYZ) signals were measured,the body linear accel
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing the variables named freqBodyAccMean-XYZ, freqBodyAccstd-XYZ, freqBodyAccJerkMean-XYZ, freqBodyAccJerkstd-XYZ, freqBodyGyroMean-XYZ, freqBodyGyrostd-XYZ, freqBodyAccMagnitudeMean,freqBodyAccMagnitudeStdDev, freqBodyAccJerkMagnitudeMean, freqBodyAccJerkMagnitudeStdDev, freqBodyGyroMagnitudeMean, freqBodyGyroMagnitudeStdDev, freqBodyGyroJerkMagnitudeMean, freqBodyGyroJerkMagnitudeStdDev. 
 
 The numerical values are the global mean value of each variable on each activity of corresponding subjects. 
+
 Mean/Std: mean or standard deviation of the measurement
-X/Y/Z: direction of a 3-axial signal
-Class of the activity is character, class of subject is integer and all other 66 variables are "numeric"  
+
+X/Y/Z: direction of a 3-axial signal.
+
+Class of the activity is character, class of subject is integer and all other 66 variables are "numeric"
+
 Dimension of the tidy data file is 180 by 68.
 
 
